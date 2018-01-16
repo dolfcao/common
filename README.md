@@ -2,14 +2,14 @@
 
 This is a library used in [TrustNote](https://trustnote.org) clients.  Never used directly.  Some of the clients that require the library:
 
-* [TrustNote Wallet](../../../trustnote-wallet) - GUI wallet for Mac, Windows, Linux, iOS, and Android.
-* [TrustNote Headless](../../../trustnote-headless) - headless wallet, primarily for server side use.
-* [TrustNote Relay](../../../trustnote-relay) - relay node for TrustNote network.  It doesn't hold any private keys.
-* [TrustNote Hub](../../../trustnote-hub) - hub for TrustNote network.  Includes the relay, plus can store and forward end-to-end encrypted messages among devices on the TrustNote network.
+* [TrustNote Wallet](../../../wallet) - GUI wallet for Mac, Windows, Linux, iOS, and Android.
+* [TrustNote Headless](../../../headless) - headless wallet, primarily for server side use.
+* [TrustNote Relay](../../../relay) - relay node for TrustNote network.  It doesn't hold any private keys.
+* [TrustNote Hub](../../../hub) - hub for TrustNote network.  Includes the relay, plus can store and forward end-to-end encrypted messages among devices on the TrustNote network.
 
 ## Developer guides
 
-See the [wiki](https://github.com/Trustnote/Trustnotecore/wiki/Trustnote-Developer-Guides).  Many of the features are not documented yet, see other [Trustnote repositories](https://github.com/Trustnote) as samples, for APIs see the `exports` of node.js modules.
+See the [wiki](https://github.com/trustnote/trustnotecore/wiki/Trustnote-Developer-Guides).  Many of the features are not documented yet, see other [Trustnote repositories](https://github.com/Trustnote) as samples, for APIs see the `exports` of node.js modules.
 
 ## Configuring
 

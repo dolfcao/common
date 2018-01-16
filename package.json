@@ -1,20 +1,22 @@
 {
-  "name": "trustnote-common",
+  "name": "common",
   "description": "Trustnote Common",
-  "author": "Trustnote",
+  "author": "TrustNote",
   "version": "0.1.0",
   "keywords": [
     "trustnote",
-    "multisignature"
+    "DAG",
+    "blockchain",
+    "TTT"
   ],
-  "homepage": "https://gitee.com/trustnote/trustnote-common",
+  "homepage": "https://github.com/trustnote/common",
   "license": "MIT",
   "repository": {
-    "url": "https://gitee.com/trustnote/trustnote-common.git",
+    "url": "https://github.com/trustnote/common",
     "type": "git"
   },
   "bugs": {
-    "url": "https://gitee.com/trustnote/trustnote-common/issues"
+    "url": "https://github.com/trustnote/common/issues"
   },
   "browser": {
     "request": "browser-request",
